@@ -11,3 +11,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/Nattereri/imagic
 BugReports: https://github.com/Nattereri/imagic/issues
+RoxygenNote: 7.2.1

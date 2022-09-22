@@ -5,7 +5,7 @@
 \alias{wtw_data}
 \title{A data set of water treatment works and reported determinands}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 494199 rows and 6 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 494199 rows and 7 columns.
 }
 \usage{
 data(wtw_data)
